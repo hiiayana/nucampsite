@@ -1,0 +1,80 @@
+body {
+    font-family: "Open Sans", sans-serif;
+    background-color: #F0DBDB;
+}
+
+h1, h2, h3 {
+    font-family: "Lobster", cursive;
+}
+
+h2 {
+    color: #829460;
+}
+
+header h2 {
+    color:  #829460;
+}
+
+.site-footer{
+    background-image: linear-gradient(to right, #EEEEEE, #90A17D, #829460);
+    padding: 20px 0;
+}
+
+.jumbotron {
+    margin: 0;
+    padding: 30px;
+    background-image: linear-gradient(to right, #EEEEEE, #90A17D, #829460);
+    color:  #829460;
+}
+
+.row-content {
+    padding: 50px 0;
+    border-bottom: 1px ridge;
+    min-height: 200px;
+}
+
+.navbar {
+    background-color: #DBA39A;
+}
+
+.carousel-caption {
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.carousel {
+    border: solid #829460;
+}
+
+.bg-info {
+    background-color: #DBA39A!important;
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: #DBA39A;
+    border-color: #DBA39A;
+}
+
+.btn-info {
+    color: #fff;
+    background-color: #DBA39A;
+    border-color:  #DBA39A;
+}
+
+.btn-info:hover {
+    color: #fff;
+    background-color: #F0DBDB;
+    border-color:  #F0DBDB;
+}
+
+a.nav-link {
+    color: #F0DBDB;
+}
+
+h3 {
+    color: #90A17D;
+}
+
+.img-thumbnail {
+    background-color: #829460;
+}
